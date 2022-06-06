@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 /**
- * Hello-Put
+ *main - entry point
+ *str1 - string of characters
+ *Return: 0 (Success)
  */
 int main(void)
 {
