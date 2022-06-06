@@ -1,15 +1,15 @@
 #include <stdio.h>
 #include <string.h>
 /**
+ *Hello-puts
  *main - entry point
- *str1 - string of characters
  *Return: 0 (Success)
  */
 int main(void)
 {
 char str1[] = "\"Programming is like building a multilingual puzzle";
 /**
- * This puts "Programming is like building a multilingual puzzle"
+ *str1: This puts "Programming is like building a multilingual puzzle"
  */
 puts(str1);
 
