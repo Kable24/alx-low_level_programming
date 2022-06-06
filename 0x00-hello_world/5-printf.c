@@ -1,10 +1,7 @@
 #include <stdio.h>
 /**
- * Hello-print(f)
- * main - Entry point
- * 
+ * main -
  * Return: Always 0 (Success)
- * printf: prints out the character
  */
 int main(void)
 {
