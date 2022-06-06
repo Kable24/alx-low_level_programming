@@ -1,13 +1,12 @@
 #include <stdio.h>
 /**
  * Hello-print(f)
- * main - Prints a string using printf
- * Return: 0
+ * main - Prints a string using printf  
+ *Return: 0
  */
 int main(void)
 {
-printf"with proper grammar, but the outcome is a piece of art, "
-  ;
+printf ("with proper grammar, but the outcome is a piece of art, ");
 
 return (0);
 }
